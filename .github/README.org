@@ -15,4 +15,4 @@
 
    下記リンクから実際に遊べます。
 
-   [[https://suyeden.github.io/demo/snake/index.html][ゲームスタート]]
+   [[https://suyeden.github.io/demo/snake/][ゲームスタート]]

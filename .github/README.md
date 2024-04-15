@@ -13,5 +13,5 @@ Canvas を使っています。
 
 下記リンクから実際に遊べます。  
 
-[ゲームスタート](https://suyeden.github.io/demo/snake/index.html)  
+[ゲームスタート](https://suyeden.github.io/demo/snake/)  
 
